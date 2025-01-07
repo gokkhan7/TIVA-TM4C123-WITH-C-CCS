@@ -2,12 +2,10 @@
 👀 **Embedded Systems and Software Enthusiast**  
 🌱 **Currently Learning:** Embedded Software  
 
----
 
 ## 📬 Contact Me  
 - 📧 Email: [gkhn1142@gmail.com](mailto:gkhn1142@gmail.com)
 
----
 
 ## 🔗 Useful Links  
 1. **Developer Kit Website**  
